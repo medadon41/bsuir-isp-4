@@ -1,0 +1,10 @@
+﻿  quadeq.cpp
+D:\GIT ISP 4\quadeq\quadeq\quadeq.cpp(7,39): warning C4273: countDisc: несовместимое связывание dll
+D:\GIT ISP 4\quadeq\quadeq\quadeq.h(12,30): message : см. предыдущее определение "countDisc"
+D:\GIT ISP 4\quadeq\quadeq\quadeq.cpp(12,48): warning C4273: countRoot: несовместимое связывание dll
+D:\GIT ISP 4\quadeq\quadeq\quadeq.h(10,30): message : см. предыдущее определение "countRoot"
+D:\GIT ISP 4\quadeq\quadeq\quadeq.cpp(27,50): warning C4273: countPeak: несовместимое связывание dll
+D:\GIT ISP 4\quadeq\quadeq\quadeq.h(11,30): message : см. предыдущее определение "countPeak"
+D:\GIT ISP 4\quadeq\quadeq\quadeq.cpp(39): warning C4715: countPeak: значение возвращается не при всех путях выполнения
+D:\GIT ISP 4\quadeq\quadeq\quadeq.cpp(25): warning C4715: countRoot: значение возвращается не при всех путях выполнения
+  quadeq.vcxproj -> D:\GIT ISP 4\quadeq\x64\Debug\quadeq.dll

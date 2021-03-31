@@ -1,0 +1,13 @@
+D:\GIT ISP 4\Lab4_Task2\Lab4_Task2\bin\Debug\netcoreapp3.1\Lab4_Task2.exe
+D:\GIT ISP 4\Lab4_Task2\Lab4_Task2\bin\Debug\netcoreapp3.1\Lab4_Task2.deps.json
+D:\GIT ISP 4\Lab4_Task2\Lab4_Task2\bin\Debug\netcoreapp3.1\Lab4_Task2.runtimeconfig.json
+D:\GIT ISP 4\Lab4_Task2\Lab4_Task2\bin\Debug\netcoreapp3.1\Lab4_Task2.runtimeconfig.dev.json
+D:\GIT ISP 4\Lab4_Task2\Lab4_Task2\bin\Debug\netcoreapp3.1\Lab4_Task2.dll
+D:\GIT ISP 4\Lab4_Task2\Lab4_Task2\bin\Debug\netcoreapp3.1\Lab4_Task2.pdb
+D:\GIT ISP 4\Lab4_Task2\Lab4_Task2\obj\Debug\netcoreapp3.1\Lab4_Task2.csprojAssemblyReference.cache
+D:\GIT ISP 4\Lab4_Task2\Lab4_Task2\obj\Debug\netcoreapp3.1\Lab4_Task2.AssemblyInfoInputs.cache
+D:\GIT ISP 4\Lab4_Task2\Lab4_Task2\obj\Debug\netcoreapp3.1\Lab4_Task2.AssemblyInfo.cs
+D:\GIT ISP 4\Lab4_Task2\Lab4_Task2\obj\Debug\netcoreapp3.1\Lab4_Task2.csproj.CoreCompileInputs.cache
+D:\GIT ISP 4\Lab4_Task2\Lab4_Task2\obj\Debug\netcoreapp3.1\Lab4_Task2.dll
+D:\GIT ISP 4\Lab4_Task2\Lab4_Task2\obj\Debug\netcoreapp3.1\Lab4_Task2.pdb
+D:\GIT ISP 4\Lab4_Task2\Lab4_Task2\obj\Debug\netcoreapp3.1\Lab4_Task2.genruntimeconfig.cache

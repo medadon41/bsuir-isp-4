@@ -1,0 +1,13 @@
+﻿  quadeq.cpp
+C:\Users\Данила\source\repos\quadeq\quadeq\quadeq.h(10,66): warning C4190: для "countRoots" задана С-связывание, но возвращаемый тип UDT "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" несовместим с языком Си
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Users\Данила\source\repos\quadeq\quadeq\quadeq.h(11,65): warning C4190: для "countPeak" задана С-связывание, но возвращаемый тип UDT "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" несовместим с языком Си
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xstring(4648): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Users\Данила\source\repos\quadeq\quadeq\quadeq.cpp(7,39): warning C4273: countDisc: несовместимое связывание dll
+C:\Users\Данила\source\repos\quadeq\quadeq\quadeq.h(12,30): message : см. предыдущее определение "countDisc"
+C:\Users\Данила\source\repos\quadeq\quadeq\quadeq.cpp(12,45): warning C4273: countRoots: несовместимое связывание dll
+C:\Users\Данила\source\repos\quadeq\quadeq\quadeq.h(10,35): message : см. предыдущее определение "countRoots"
+C:\Users\Данила\source\repos\quadeq\quadeq\quadeq.cpp(34,44): warning C4273: countPeak: несовместимое связывание dll
+C:\Users\Данила\source\repos\quadeq\quadeq\quadeq.h(11,35): message : см. предыдущее определение "countPeak"
+     Создается библиотека C:\Users\Данила\source\repos\quadeq\Debug\quadeq.lib и объект C:\Users\Данила\source\repos\quadeq\Debug\quadeq.exp
+  quadeq.vcxproj -> C:\Users\Данила\source\repos\quadeq\Debug\quadeq.dll
