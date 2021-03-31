@@ -18,12 +18,6 @@ namespace Lab4_Task2
         [DllImport("quadeq.dll", CallingConvention = CallingConvention.Cdecl)]
         static extern double countPeak(int a, int b, int c, char axis);
 
-        /*
-        static bool checkInt(string num)
-        {
-            
-        }
-        */
         static void Main(string[] args)
         {
             Console.Write("Введите коэффициент a: ");

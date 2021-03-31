@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GIT ISP 4\\Lab4_Task2\\Lab4_Task2\\Lab4_Task2.csproj",
+      "projectUniqueName": "D:\\ISP 4\\bsuir-isp-4\\Lab4_Task2\\Lab4_Task2\\Lab4_Task2.csproj",
       "projectName": "Lab4_Task2",
-      "projectPath": "D:\\GIT ISP 4\\Lab4_Task2\\Lab4_Task2\\Lab4_Task2.csproj",
+      "projectPath": "D:\\ISP 4\\bsuir-isp-4\\Lab4_Task2\\Lab4_Task2\\Lab4_Task2.csproj",
       "packagesPath": "C:\\Users\\Данила\\.nuget\\packages\\",
-      "outputPath": "D:\\GIT ISP 4\\Lab4_Task2\\Lab4_Task2\\obj\\",
+      "outputPath": "D:\\ISP 4\\bsuir-isp-4\\Lab4_Task2\\Lab4_Task2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Данила\\AppData\\Roaming\\NuGet\\NuGet.Config",
